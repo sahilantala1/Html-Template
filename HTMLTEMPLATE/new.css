@@ -1,0 +1,60 @@
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+.header {
+    background-color: yellowgreen;
+    color: yellow;
+    text-align: center;
+    padding: 8px;
+  }
+
+  .header .btn {
+    background-color:blue;
+    color: white;
+    margin: 20px;
+  }
+  
+.section2{
+    text-align: center;
+  }
+
+  .box {
+    display: flex;
+    gap: 30px;
+  }
+  .section3{
+    text-align: center;
+    background-color: orange;
+  }
+  .section3 .img1{
+        border-radius: 50%;
+        padding: 5px;
+        width: 100px;
+  }
+  /* .section3 .box .content{
+    margin-bottom: 30px;
+  } */
+
+  .section3 .btnn{
+    margin: 20px;
+
+  }
+
+  .section3 .img1{
+    margin-top: 20px;
+  }
+
+  .pra
+  {
+    color: blue;
+    text-align: center;
+
+  }
+  .pra2{
+    text-align: center;
+  }
+
+
+  
